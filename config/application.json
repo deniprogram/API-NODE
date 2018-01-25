@@ -1,0 +1,8 @@
+{
+    "application": {
+        "name": "API-NODE",
+        "version_name": "v1",
+        "load_versions": [1],
+        "port": 3000
+    }
+}

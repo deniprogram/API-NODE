@@ -1,0 +1,8 @@
+{
+    "name": "UUDI",
+    "script": "www.js",
+    "env": {
+        "NODE_ENV": "production",
+        "PORT": "3000"
+    }
+}

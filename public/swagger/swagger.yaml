@@ -1,0 +1,10 @@
+---
+swagger: '1.0'
+info:
+  version: 1.0.0
+  title: NODE
+  description: |
+    #### API
+schemes:
+  - http
+host: localhost:3000
